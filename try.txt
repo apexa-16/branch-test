@@ -3,4 +3,3 @@ added from B1
 added from b1 -test rebase
 added from b2 -test rebase
 br2 commit 1
-br2 commit 2
