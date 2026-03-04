@@ -2,3 +2,4 @@ br1 c1
 br1 c2 
 
 br1 reset test c1
+br1 reset test c2
