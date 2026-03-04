@@ -5,3 +5,4 @@ br1 reset test c1
 br1 reset test c2
 br1 reset test c3
 br1 reset test c4
+br1 reset test c5
