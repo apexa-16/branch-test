@@ -1,2 +1,5 @@
 br2 c1
 br2 c2
+
+br2 reset test c1
+br2 commit amend test
