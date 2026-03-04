@@ -3,3 +3,12 @@ br2 c2
 
 br2 reset test c1
 br2 commit amend test
+
+commit amend test
+commit amend test
+commit amend test
+commit amend test
+commit ee amend test
+commit kk amend test
+commit amend test
+commit amend test
